@@ -1,0 +1,16 @@
+idProducto;nombre;imagen;precio
+P1;Pizza de Peperoni;P_Pepperoni.png;120.0
+P1;Pizza de Peperoni;P_Pepperoni.png;100.0
+P1;Pizza de Peperoni;P_Pepperoni.png;80.0
+P2;Pizza Hawaiana;P_Hawaiana.png;120.0
+P2;Pizza Hawaiana;P_Hawaiana.png;100.0
+P2;Pizza Hawaiana;P_Hawaiana.png;80.0
+P3;Pizza Ranchera;P_Ranchera.png;120.0
+P3;Pizza Ranchera;P_Ranchera.png;100.0
+P3;Pizza Ranchera;P_Ranchera.png;80.0
+B4;Coca-Cola;cocacola.png;20.0
+B4;Coca-Cola;cocacola.png;30.0
+B4;Coca-Cola;cocacola.png;40.0
+B5;Squirt;squirt.png;20.0
+B5;Squirt;squirt.png;30.0
+B5;Squirt;squirt.png;40.0

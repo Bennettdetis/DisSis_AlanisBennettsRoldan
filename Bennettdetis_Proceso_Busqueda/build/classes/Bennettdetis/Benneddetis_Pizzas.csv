@@ -1,0 +1,10 @@
+idProducto;tamanio;descripcion;disponibilidad
+P1;Chica;Salsa de tomate, mozzarella, peperoni, tocino, chorizo, cebolla, pimiento verde;true
+P1;Mediana;Salsa de tomate, mozzarella, peperoni, tocino, chorizo, cebolla, pimiento verde;true
+P1;Grande;Salsa de tomate, mozzarella, peperoni, tocino, chorizo, cebolla, pimiento verde;true
+P2;Chica;Salsa de tomante, mozzarella, jamon, piña, tocino;true
+P2;Mediana;Salsa de tomante, mozzarella, jamon, piña, tocino;true
+P2;Grande;Salsa de tomante, mozzarella, jamon, piña, tocino;true
+P3;Chica;Salsa de tomate, mozzarella, frijoles, cebolla, jalapeo, tocino, chorizo;true
+P3;Mediana;Salsa de tomate, mozzarella, frijoles, cebolla, jalapeo, tocino, chorizo;true
+P3;Grande;Salsa de tomate, mozzarella, frijoles, cebolla, jalapeo, tocino, chorizo;true
